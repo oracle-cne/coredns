@@ -1,4 +1,4 @@
-@Library('olcne-pipeline') _
+@Library('olcne-pipeline@1-test-debug') _
 import com.oracle.olcne.pipeline.BranchPattern
 
 String coredns_version = "1.12.0";
