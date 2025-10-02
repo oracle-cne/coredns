@@ -37,7 +37,7 @@ yum clean all && yumdownloader --destdir=${PWD}/rpms %{rpm_name}
 
 %__rm .dockerignore
 %global docker_tag %{registry}/%{_name}:v%{version}
-docker build --pull=never --squash \
+docker build --squash \
     --build-arg https_proxy=${https_proxy} \
     -t %{docker_tag} -f ./olm/builds/Dockerfile .
 docker save -o %{_name}.tar %{docker_tag}
