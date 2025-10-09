@@ -10,8 +10,4 @@ olcnePipeline(
         platforms: ['ol8'],
 	architectures: ['x86_64', 'aarch64'],
         yumOL8Repos: ['ol8_appstream'],
-	preBuildCommands: [
-		'podman pull container-registry.oracle.com/olcne/base:latest',
-		'podman tag container-registry.oracle.com/olcne/base:latest container-registry.oracle.com/os/oraclelinux:8',
-	],
 )
