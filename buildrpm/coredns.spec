@@ -45,6 +45,9 @@ GIT_COMMIT_SHA=$(curl -s https://api.github.com/repos/coredns/coredns/git/refs/t
 {{{- if semverCompare ">1.11.2" $version }}}
 GOLANG_VERSION=$(cat .go-version)
 {{{- end }}}
+
+GITCOMMIT=${GIT_COMMIT_SHA}
+
 go build -v -trimpath=false -ldflags="-s -w -X github.com/coredns/coredns/coremain.GitCommit=$(GITCOMMIT)i -X main.VERSION=v%{version}" -o coredns
 popd
 
