@@ -41,6 +41,7 @@ unset GOPROXY
 pushd %{build_dir}
 GIT_COMMIT_SHA=$(curl -s https://api.github.com/repos/coredns/coredns/git/refs/tags/v1.12.4 | jq -r '.object.sha[0:7]')
 GOLANG_VERSION=$(cat .go-version)
+GITCOMMIT=${GIT_COMMIT_SHA}
 go build -v -trimpath=false -ldflags="-s -w -X github.com/coredns/coredns/coremain.GitCommit=$(GITCOMMIT)i -X main.VERSION=v%{version}" -o coredns
 popd
 
