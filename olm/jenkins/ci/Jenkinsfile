@@ -1,0 +1,13 @@
+@Library('olcne-pipeline') _
+import com.oracle.olcne.pipeline.BranchPattern
+
+String coredns_version = "1.14.1";
+String image_tag = 'v' + coredns_version + '';
+
+olcnePipeline(
+        containers: [('container-registry.oracle.com/olcne/coredns:' + image_tag): 'olcne/coredns:' + image_tag],
+        branchPattern: new BranchPattern(master: 'oracle/release/' + coredns_version, feature: '(?!^release/.*$)(^.*$)'),
+        platforms: ['ol8'],
+	architectures: ['x86_64', 'aarch64'],
+        yumOL8Repos: ['ol8_appstream'],
+)
