@@ -760,7 +760,19 @@ github.com/aws/aws-sdk-go-v2/config
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright (c) 2009 The Go Authors. All rights reserved.
+Copyright *string
+Copyright 2013 The Go Authors. All rights reserved.
+Copyright 2014-2015 Stripe, Inc.
+Copyright 2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2022 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright ? 2015-2021 the original authors.
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 --------------------------------- (separator) ----------------------------------
 
@@ -771,7 +783,62 @@ github.com/aws/aws-sdk-go-v2/credentials
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2017 GitHub noreply@github.com
+Copyright 2017 Henri Yandell hyandell@users.noreply.github.com
+Copyright 2017 Jason Del Ponte delpontej@gmail.com
+Copyright 2018 GitHub noreply@github.com
+Copyright 2018 Jason Del Ponte delpontej@gmail.com
+Copyright 2019 GitHub noreply@github.com
+Copyright 2019 Jason Del Ponte delpontej@gmail.com
+Copyright 2019 Shantanu Kotambkar 52007797+skotambkar@users.noreply.github.com
+Copyright 2020 GitHub noreply@github.com
+Copyright 2020 Jason Del Ponte delpontej@gmail.com
+Copyright 2020 Jordon Phillips JordonPhillips@users.noreply.github.com
+Copyright 2020 KaibaLopez vuner.lopez@gmail.com
+Copyright 2020 Sean McGrail mcgrails@amazon.com
+Copyright 2020 Sean McGrail skmcgrail@gmail.com
+Copyright 2020 skotambkar kotambka@amazon.com
+Copyright 2021 GitHub noreply@github.com
+Copyright 2021 Jason Del Ponte 961963+jasdel@users.noreply.github.com
+Copyright 2021 Jason Del Ponte delpontej@gmail.com
+Copyright 2021 Jordon Phillips JordonPhillips@users.noreply.github.com
+Copyright 2021 Sean McGrail mcgrails@amazon.com
+Copyright 2021 Shantanu Kotambkar kotambka@amazon.com
+Copyright 2021 skotambkar kotambka@amazon.com
+Copyright 2022 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2022 GitHub noreply@github.com
+Copyright 2022 Isaiah Vita isvita@amazon.com
+Copyright 2022 Jason Del Ponte 961963+jasdel@users.noreply.github.com
+Copyright 2022 Ran Vaknin rvaknin@amazon.com
+Copyright 2022 Sam Bisciglia sbiscigl@asu.edu
+Copyright 2022 Sean McGrail 549813+skmcgrail@users.noreply.github.com
+Copyright 2022 Sean McGrail mcgrails@amazon.com
+Copyright 2022 Steven Yuan s.yuan.all@gmail.com
+Copyright 2022 kellertk kellertk@amazon.com
+Copyright 2023 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2023 GitHub noreply@github.com
+Copyright 2023 Isaiah Vita isvita@amazon.com
+Copyright 2023 Luc Talatinian lucix@amazon.com
+Copyright 2023 Ran Vaknin rvaknin@amazon.com
+Copyright 2023 Sam Bisciglia sbiscigl@asu.edu
+Copyright 2023 Steven Yuan s.yuan.all@gmail.com
+Copyright 2023 Steven Yuan yuasteve@amazon.com
+Copyright 2023 Tianyi Wang wty@amazon.com
+Copyright 2024 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2024 Ashish Dhingra 67916761+ashishdhingra@users.noreply.github.com
+Copyright 2024 Bhavya Sharma bhavyssh@amazon.com
+Copyright 2024 GitHub noreply@github.com
+Copyright 2024 Luc Talatinian lucix@amazon.com
+Copyright 2024 Luis Madrigal 🐧 599908+Madrigal@users.noreply.github.com
+Copyright 2024 Luis Madrigal 🐧 lmadrig@amazon.com
+Copyright 2024 Miles Ziemer mziemer@amazon.com
+Copyright 2024 Ran Vaknin RanVaknin@users.noreply.github.com
+Copyright 2024 Ran Vaknin username@users.noreply.github.com
+Copyright 2024 Tianyi Wang wty@amazon.com
+Copyright 2025 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2025 GitHub noreply@github.com
+Copyright 2025 Luc Talatinian lucix@amazon.com
+Copyright 2025 wty-Bryant wty19980708@gmail.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -782,7 +849,62 @@ github.com/aws/aws-sdk-go-v2/feature/ec2/imds
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2017 GitHub noreply@github.com
+Copyright 2017 Henri Yandell hyandell@users.noreply.github.com
+Copyright 2017 Jason Del Ponte delpontej@gmail.com
+Copyright 2018 GitHub noreply@github.com
+Copyright 2018 Jason Del Ponte delpontej@gmail.com
+Copyright 2019 GitHub noreply@github.com
+Copyright 2019 Jason Del Ponte delpontej@gmail.com
+Copyright 2019 Shantanu Kotambkar 52007797+skotambkar@users.noreply.github.com
+Copyright 2020 GitHub noreply@github.com
+Copyright 2020 Jason Del Ponte delpontej@gmail.com
+Copyright 2020 Jordon Phillips JordonPhillips@users.noreply.github.com
+Copyright 2020 KaibaLopez vuner.lopez@gmail.com
+Copyright 2020 Sean McGrail mcgrails@amazon.com
+Copyright 2020 Sean McGrail skmcgrail@gmail.com
+Copyright 2020 skotambkar kotambka@amazon.com
+Copyright 2021 GitHub noreply@github.com
+Copyright 2021 Jason Del Ponte 961963+jasdel@users.noreply.github.com
+Copyright 2021 Jason Del Ponte delpontej@gmail.com
+Copyright 2021 Jordon Phillips JordonPhillips@users.noreply.github.com
+Copyright 2021 Sean McGrail mcgrails@amazon.com
+Copyright 2021 Shantanu Kotambkar kotambka@amazon.com
+Copyright 2021 skotambkar kotambka@amazon.com
+Copyright 2022 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2022 GitHub noreply@github.com
+Copyright 2022 Isaiah Vita isvita@amazon.com
+Copyright 2022 Jason Del Ponte 961963+jasdel@users.noreply.github.com
+Copyright 2022 Ran Vaknin rvaknin@amazon.com
+Copyright 2022 Sam Bisciglia sbiscigl@asu.edu
+Copyright 2022 Sean McGrail 549813+skmcgrail@users.noreply.github.com
+Copyright 2022 Sean McGrail mcgrails@amazon.com
+Copyright 2022 Steven Yuan s.yuan.all@gmail.com
+Copyright 2022 kellertk kellertk@amazon.com
+Copyright 2023 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2023 GitHub noreply@github.com
+Copyright 2023 Isaiah Vita isvita@amazon.com
+Copyright 2023 Luc Talatinian lucix@amazon.com
+Copyright 2023 Ran Vaknin rvaknin@amazon.com
+Copyright 2023 Sam Bisciglia sbiscigl@asu.edu
+Copyright 2023 Steven Yuan s.yuan.all@gmail.com
+Copyright 2023 Steven Yuan yuasteve@amazon.com
+Copyright 2023 Tianyi Wang wty@amazon.com
+Copyright 2024 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2024 Ashish Dhingra 67916761+ashishdhingra@users.noreply.github.com
+Copyright 2024 Bhavya Sharma bhavyssh@amazon.com
+Copyright 2024 GitHub noreply@github.com
+Copyright 2024 Luc Talatinian lucix@amazon.com
+Copyright 2024 Luis Madrigal 🐧 599908+Madrigal@users.noreply.github.com
+Copyright 2024 Luis Madrigal 🐧 lmadrig@amazon.com
+Copyright 2024 Miles Ziemer mziemer@amazon.com
+Copyright 2024 Ran Vaknin RanVaknin@users.noreply.github.com
+Copyright 2024 Ran Vaknin username@users.noreply.github.com
+Copyright 2024 Tianyi Wang wty@amazon.com
+Copyright 2025 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2025 GitHub noreply@github.com
+Copyright 2025 Luc Talatinian lucix@amazon.com
+Copyright 2025 wty-Bryant wty19980708@gmail.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -793,7 +915,62 @@ github.com/aws/aws-sdk-go-v2/internal/configsources
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2017 GitHub noreply@github.com
+Copyright 2017 Henri Yandell hyandell@users.noreply.github.com
+Copyright 2017 Jason Del Ponte delpontej@gmail.com
+Copyright 2018 GitHub noreply@github.com
+Copyright 2018 Jason Del Ponte delpontej@gmail.com
+Copyright 2019 GitHub noreply@github.com
+Copyright 2019 Jason Del Ponte delpontej@gmail.com
+Copyright 2019 Shantanu Kotambkar 52007797+skotambkar@users.noreply.github.com
+Copyright 2020 GitHub noreply@github.com
+Copyright 2020 Jason Del Ponte delpontej@gmail.com
+Copyright 2020 Jordon Phillips JordonPhillips@users.noreply.github.com
+Copyright 2020 KaibaLopez vuner.lopez@gmail.com
+Copyright 2020 Sean McGrail mcgrails@amazon.com
+Copyright 2020 Sean McGrail skmcgrail@gmail.com
+Copyright 2020 skotambkar kotambka@amazon.com
+Copyright 2021 GitHub noreply@github.com
+Copyright 2021 Jason Del Ponte 961963+jasdel@users.noreply.github.com
+Copyright 2021 Jason Del Ponte delpontej@gmail.com
+Copyright 2021 Jordon Phillips JordonPhillips@users.noreply.github.com
+Copyright 2021 Sean McGrail mcgrails@amazon.com
+Copyright 2021 Shantanu Kotambkar kotambka@amazon.com
+Copyright 2021 skotambkar kotambka@amazon.com
+Copyright 2022 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2022 GitHub noreply@github.com
+Copyright 2022 Isaiah Vita isvita@amazon.com
+Copyright 2022 Jason Del Ponte 961963+jasdel@users.noreply.github.com
+Copyright 2022 Ran Vaknin rvaknin@amazon.com
+Copyright 2022 Sam Bisciglia sbiscigl@asu.edu
+Copyright 2022 Sean McGrail 549813+skmcgrail@users.noreply.github.com
+Copyright 2022 Sean McGrail mcgrails@amazon.com
+Copyright 2022 Steven Yuan s.yuan.all@gmail.com
+Copyright 2022 kellertk kellertk@amazon.com
+Copyright 2023 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2023 GitHub noreply@github.com
+Copyright 2023 Isaiah Vita isvita@amazon.com
+Copyright 2023 Luc Talatinian lucix@amazon.com
+Copyright 2023 Ran Vaknin rvaknin@amazon.com
+Copyright 2023 Sam Bisciglia sbiscigl@asu.edu
+Copyright 2023 Steven Yuan s.yuan.all@gmail.com
+Copyright 2023 Steven Yuan yuasteve@amazon.com
+Copyright 2023 Tianyi Wang wty@amazon.com
+Copyright 2024 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2024 Ashish Dhingra 67916761+ashishdhingra@users.noreply.github.com
+Copyright 2024 Bhavya Sharma bhavyssh@amazon.com
+Copyright 2024 GitHub noreply@github.com
+Copyright 2024 Luc Talatinian lucix@amazon.com
+Copyright 2024 Luis Madrigal 🐧 599908+Madrigal@users.noreply.github.com
+Copyright 2024 Luis Madrigal 🐧 lmadrig@amazon.com
+Copyright 2024 Miles Ziemer mziemer@amazon.com
+Copyright 2024 Ran Vaknin RanVaknin@users.noreply.github.com
+Copyright 2024 Ran Vaknin username@users.noreply.github.com
+Copyright 2024 Tianyi Wang wty@amazon.com
+Copyright 2025 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2025 GitHub noreply@github.com
+Copyright 2025 Luc Talatinian lucix@amazon.com
+Copyright 2025 wty-Bryant wty19980708@gmail.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -804,7 +981,62 @@ github.com/aws/aws-sdk-go-v2/internal/endpoints/v2
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2017 GitHub noreply@github.com
+Copyright 2017 Henri Yandell hyandell@users.noreply.github.com
+Copyright 2017 Jason Del Ponte delpontej@gmail.com
+Copyright 2018 GitHub noreply@github.com
+Copyright 2018 Jason Del Ponte delpontej@gmail.com
+Copyright 2019 GitHub noreply@github.com
+Copyright 2019 Jason Del Ponte delpontej@gmail.com
+Copyright 2019 Shantanu Kotambkar 52007797+skotambkar@users.noreply.github.com
+Copyright 2020 GitHub noreply@github.com
+Copyright 2020 Jason Del Ponte delpontej@gmail.com
+Copyright 2020 Jordon Phillips JordonPhillips@users.noreply.github.com
+Copyright 2020 KaibaLopez vuner.lopez@gmail.com
+Copyright 2020 Sean McGrail mcgrails@amazon.com
+Copyright 2020 Sean McGrail skmcgrail@gmail.com
+Copyright 2020 skotambkar kotambka@amazon.com
+Copyright 2021 GitHub noreply@github.com
+Copyright 2021 Jason Del Ponte 961963+jasdel@users.noreply.github.com
+Copyright 2021 Jason Del Ponte delpontej@gmail.com
+Copyright 2021 Jordon Phillips JordonPhillips@users.noreply.github.com
+Copyright 2021 Sean McGrail mcgrails@amazon.com
+Copyright 2021 Shantanu Kotambkar kotambka@amazon.com
+Copyright 2021 skotambkar kotambka@amazon.com
+Copyright 2022 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2022 GitHub noreply@github.com
+Copyright 2022 Isaiah Vita isvita@amazon.com
+Copyright 2022 Jason Del Ponte 961963+jasdel@users.noreply.github.com
+Copyright 2022 Ran Vaknin rvaknin@amazon.com
+Copyright 2022 Sam Bisciglia sbiscigl@asu.edu
+Copyright 2022 Sean McGrail 549813+skmcgrail@users.noreply.github.com
+Copyright 2022 Sean McGrail mcgrails@amazon.com
+Copyright 2022 Steven Yuan s.yuan.all@gmail.com
+Copyright 2022 kellertk kellertk@amazon.com
+Copyright 2023 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2023 GitHub noreply@github.com
+Copyright 2023 Isaiah Vita isvita@amazon.com
+Copyright 2023 Luc Talatinian lucix@amazon.com
+Copyright 2023 Ran Vaknin rvaknin@amazon.com
+Copyright 2023 Sam Bisciglia sbiscigl@asu.edu
+Copyright 2023 Steven Yuan s.yuan.all@gmail.com
+Copyright 2023 Steven Yuan yuasteve@amazon.com
+Copyright 2023 Tianyi Wang wty@amazon.com
+Copyright 2024 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2024 Ashish Dhingra 67916761+ashishdhingra@users.noreply.github.com
+Copyright 2024 Bhavya Sharma bhavyssh@amazon.com
+Copyright 2024 GitHub noreply@github.com
+Copyright 2024 Luc Talatinian lucix@amazon.com
+Copyright 2024 Luis Madrigal 🐧 599908+Madrigal@users.noreply.github.com
+Copyright 2024 Luis Madrigal 🐧 lmadrig@amazon.com
+Copyright 2024 Miles Ziemer mziemer@amazon.com
+Copyright 2024 Ran Vaknin RanVaknin@users.noreply.github.com
+Copyright 2024 Ran Vaknin username@users.noreply.github.com
+Copyright 2024 Tianyi Wang wty@amazon.com
+Copyright 2025 AWS SDK for Go v2 automation user aws-sdk-go-v2-github@amazon.com
+Copyright 2025 GitHub noreply@github.com
+Copyright 2025 Luc Talatinian lucix@amazon.com
+Copyright 2025 wty-Bryant wty19980708@gmail.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -881,7 +1113,11 @@ github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 --------------------------------- (separator) ----------------------------------
 
@@ -903,7 +1139,11 @@ github.com/aws/aws-sdk-go-v2/service/route53
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 --------------------------------- (separator) ----------------------------------
 
@@ -925,7 +1165,11 @@ github.com/aws/aws-sdk-go-v2/service/sso
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 --------------------------------- (separator) ----------------------------------
 
@@ -936,7 +1180,11 @@ github.com/aws/aws-sdk-go-v2/service/ssooidc
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1596,13 +1844,11 @@ github.com/infobloxopen/go-trees
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2017 GitHub noreply@github.com
-Copyright 2017 John Belamaric jbelamaric@infoblox.com
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 John Belamaric jbelamaric@infoblox.com
-Copyright 2019 GitHub noreply@github.com
-Copyright 2020 GitHub noreply@github.com
-Copyright 2020 sanyo sanyo0714@163.com
+Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1686,9 +1932,7 @@ github.com/modern-go/concurrent
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 Tao Wen taowen@gmail.com
-Copyright 2018 kr1sten0 zhqy0807@gmail.com
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1699,7 +1943,9 @@ github.com/modern-go/reflect2
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2018 GitHub noreply@github.com
+Copyright 2018 Tao Wen taowen@gmail.com
+Copyright 2018 kr1sten0 zhqy0807@gmail.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2088,8 +2334,7 @@ github.com/puzpuzpuz/xsync/v3
 SPDX:Apache-2.0
 
 == Copyright
-Copyright notice. Initial version of the following tests was based on
-Copyright notice. The following tests are partially based on
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2327,48 +2572,8 @@ go.opentelemetry.io/auto/sdk
 SPDX:Apache-2.0
 
 == Copyright
-Copyright (C) 1991, 1999 Free Software Foundation, Inc.
-Copyright (C) 2013 Blake Mizerany
-Copyright (C) 2013-2015 Alexei Starovoitov <ast@kernel.org>
-Copyright (C) 2014-2019, Matt Butcher and Matt Farina
-Copyright (C) 2015 Huawei Inc.
-Copyright (C) 2015 Wang Nan <wangnan0@huawei.com>
-Copyright (C) 2021 Facebook
-Copyright (c) 2009 The Go Authors. All rights reserved.
-Copyright (c) 2009,2014 Google Inc. All rights reserved.
-Copyright (c) 2011 The Snappy-Go Authors. All rights reserved.
-Copyright (c) 2011, Open Knowledge Foundation Ltd.
-Copyright (c) 2012 The Go Authors. All rights reserved.
-Copyright (c) 2013 The Go Authors. All rights reserved.
-Copyright (c) 2013, The GoGo Authors. All rights reserved.
-Copyright (c) 2014 Cenk Altı
-Copyright (c) 2015 Klaus Post
-Copyright (c) 2015 The Libbpf Authors. All rights reserved.
-Copyright (c) 2015, Dave Cheney <dave@cheney.net>
-Copyright (c) 2015, Gengo, Inc.
-Copyright (c) 2016 Caleb Spare
-Copyright (c) 2016 json-iterator
-Copyright (c) 2017 Nathan Sweet
-Copyright (c) 2017-2021 Uber Technologies, Inc.
-Copyright (c) 2018 - 2019 Intel Corporation.
-Copyright (c) 2018 The Go Authors. All rights reserved.
-Copyright (c) 2018, 2019 Cloudflare
-Copyright (c) 2019 Authors of Cilium
-Copyright (c) 2019 Facebook
-Copyright (c) 2019 Klaus Post. All rights reserved.
-Copyright 2009 The Go Authors.
-Copyright 2010 The Go Authors
-Copyright 2010 The Go Authors. All rights reserved.
-Copyright 2012-2015 The Prometheus Authors
-Copyright 2013-2015 Blake Mizerany, Björn Rabenstein
-Copyright 2014 gRPC authors.
-Copyright 2014-2015 The Prometheus Authors
-Copyright 2015 The Go Authors.
-Copyright 2015 The Prometheus Authors
-Copyright 2016 The filepathx Authors
-Copyright 2016-2017 The New York Times Company
-Copyright 2023 The Go Authors. All rights reserved.
-Copyright The OpenTelemetry Authors
+Copyright notice. Initial version of the following tests was based on
+Copyright notice. The following tests are partially based on
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2390,7 +2595,12 @@ go.opentelemetry.io/collector/featuregate
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright (c) 2013 Mitchell Hashimoto
+Copyright (c) 2013 The Go Authors. All rights reserved.
+Copyright (c) 2017 Uber Technologies, Inc.
+Copyright 2014 gRPC authors.
+Copyright 2016 Michal Witkowski. All Rights Reserved.
+Copyright The OpenTelemetry Authors
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2412,7 +2622,11 @@ go.opentelemetry.io/collector/pdata
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright (c) 2013 The Go Authors. All rights reserved.
+Copyright (c) 2017 Uber Technologies, Inc.
+Copyright 2014 gRPC authors.
+Copyright 2016 Michal Witkowski. All Rights Reserved.
+Copyright The OpenTelemetry Authors
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2445,7 +2659,11 @@ go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright (c) 2013 The Go Authors. All rights reserved.
+Copyright (c) 2017 Uber Technologies, Inc.
+Copyright 2014 gRPC authors.
+Copyright 2016 Michal Witkowski. All Rights Reserved.
+Copyright The OpenTelemetry Authors
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2456,9 +2674,7 @@ go.opentelemetry.io/otel
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2009 The Go Authors. All rights reserved.
-Copyright 2022 The Go Authors. All rights reserved.
-Copyright The OpenTelemetry Authors
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2480,7 +2696,9 @@ go.opentelemetry.io/otel/metric
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2009 The Go Authors. All rights reserved.
+Copyright 2022 The Go Authors. All rights reserved.
+Copyright The OpenTelemetry Authors
 
 --------------------------------- (separator) ----------------------------------
 
