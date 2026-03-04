@@ -1128,11 +1128,7 @@ github.com/aws/aws-sdk-go-v2/service/internal/presigned-url
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1158,11 +1154,7 @@ github.com/aws/aws-sdk-go-v2/service/secretsmanager
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1203,11 +1195,7 @@ github.com/aws/aws-sdk-go-v2/service/sts
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1874,19 +1862,27 @@ github.com/hashicorp/errwrap
 SPDX:MPL-2.0
 
 == Copyright
-Copyright 2014 Andrew Martin andrew.martin@lovestockleaf.com
-Copyright 2014 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2014 Mitchell Hashimoto xmitchx@gmail.com
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 Matthew Leon ml@matthewleon.com
-Copyright 2018 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2020 Daniel Nephin dnephin@gmail.com
-Copyright 2020 GitHub noreply@github.com
+Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
 github.com/hashicorp/go-cleanhttp
+
+== License Type
+SPDX:MPL-2.0
+
+== Copyright
+(no copyright notices found)
+
+--------------------------------- (separator) ----------------------------------
+
+== Dependency
+github.com/hashicorp/go-multierror
 
 == License Type
 SPDX:MPL-2.0
@@ -1907,52 +1903,13 @@ Copyright 2021 Jeff Mitchell jeffrey.mitchell@gmail.com
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-github.com/hashicorp/go-multierror
-
-== License Type
-SPDX:MPL-2.0
-
-== Copyright
-Copyright 2014 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2015 Max Nordlund max.nordlund@gmail.com
-Copyright 2015 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2015 Mitchell Hashimoto xmitchx@gmail.com
-Copyright 2015 Paul Hinze phinze@phinze.com
-Copyright 2015 Ryan Uber ru@ryanuber.com
-Copyright 2016 David Tolnay dtolnay@gmail.com
-Copyright 2016 GitHub noreply@github.com
-Copyright 2016 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2016 Seth Vargo sethvargo@gmail.com
-Copyright 2017 GitHub noreply@github.com
-Copyright 2018 Brian Flad bflad417@gmail.com
-Copyright 2018 French Ben frenchben@docker.com
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2019 GitHub noreply@github.com
-Copyright 2019 Matthew Hooker mwhooker@gmail.com
-Copyright 2019 Michele mdeggies@gmail.com
-Copyright 2019 Nick Ethier nethier@hashicorp.com
-Copyright 2020 GitHub noreply@github.com
-Copyright 2020 Michael Golowka 72365+pcman312@users.noreply.github.com
-Copyright 2020 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2021 GitHub noreply@github.com
-Copyright 2021 Matthew Hooker mwhooker@gmail.com
-Copyright 2021 Michele mdeggies@gmail.com
-Copyright 2021 Seth Vargo seth@sethvargo.com
-
---------------------------------- (separator) ----------------------------------
-
-== Dependency
 github.com/hashicorp/go-rootcerts
 
 == License Type
 SPDX:MPL-2.0
 
 == Copyright
-Copyright 2016 Paul Hinze phinze@phinze.com
-Copyright 2019 GitHub noreply@github.com
-Copyright 2019 Jeff Mitchell jeffrey.mitchell@gmail.com
-Copyright 2019 Michel Vocks michelvocks@gmail.com
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1987,13 +1944,10 @@ github.com/infobloxopen/go-trees
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2017 GitHub noreply@github.com
-Copyright 2017 John Belamaric jbelamaric@infoblox.com
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 John Belamaric jbelamaric@infoblox.com
+Copyright 2016 Paul Hinze phinze@phinze.com
 Copyright 2019 GitHub noreply@github.com
-Copyright 2020 GitHub noreply@github.com
-Copyright 2020 sanyo sanyo0714@163.com
+Copyright 2019 Jeff Mitchell jeffrey.mitchell@gmail.com
+Copyright 2019 Michel Vocks michelvocks@gmail.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2876,9 +2830,7 @@ go.opentelemetry.io/otel/trace
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2009 The Go Authors. All rights reserved.
-Copyright 2022 The Go Authors. All rights reserved.
-Copyright The OpenTelemetry Authors
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
