@@ -1119,11 +1119,7 @@ github.com/aws/aws-sdk-go-v2/service/internal/presigned-url
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1149,11 +1145,7 @@ github.com/aws/aws-sdk-go-v2/service/secretsmanager
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1179,11 +1171,7 @@ github.com/aws/aws-sdk-go-v2/service/sso
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1209,11 +1197,7 @@ github.com/aws/aws-sdk-go-v2/service/sts
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1871,19 +1855,27 @@ github.com/hashicorp/errwrap
 SPDX:MPL-2.0
 
 == Copyright
-Copyright 2014 Andrew Martin andrew.martin@lovestockleaf.com
-Copyright 2014 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2014 Mitchell Hashimoto xmitchx@gmail.com
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 Matthew Leon ml@matthewleon.com
-Copyright 2018 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2020 Daniel Nephin dnephin@gmail.com
-Copyright 2020 GitHub noreply@github.com
+Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2021 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2023 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright 2024 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
 github.com/hashicorp/go-cleanhttp
+
+== License Type
+SPDX:MPL-2.0
+
+== Copyright
+(no copyright notices found)
+
+--------------------------------- (separator) ----------------------------------
+
+== Dependency
+github.com/hashicorp/go-multierror
 
 == License Type
 SPDX:MPL-2.0
@@ -1904,52 +1896,13 @@ Copyright 2021 Jeff Mitchell jeffrey.mitchell@gmail.com
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-github.com/hashicorp/go-multierror
-
-== License Type
-SPDX:MPL-2.0
-
-== Copyright
-Copyright 2014 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2015 Max Nordlund max.nordlund@gmail.com
-Copyright 2015 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2015 Mitchell Hashimoto xmitchx@gmail.com
-Copyright 2015 Paul Hinze phinze@phinze.com
-Copyright 2015 Ryan Uber ru@ryanuber.com
-Copyright 2016 David Tolnay dtolnay@gmail.com
-Copyright 2016 GitHub noreply@github.com
-Copyright 2016 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2016 Seth Vargo sethvargo@gmail.com
-Copyright 2017 GitHub noreply@github.com
-Copyright 2018 Brian Flad bflad417@gmail.com
-Copyright 2018 French Ben frenchben@docker.com
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2019 GitHub noreply@github.com
-Copyright 2019 Matthew Hooker mwhooker@gmail.com
-Copyright 2019 Michele mdeggies@gmail.com
-Copyright 2019 Nick Ethier nethier@hashicorp.com
-Copyright 2020 GitHub noreply@github.com
-Copyright 2020 Michael Golowka 72365+pcman312@users.noreply.github.com
-Copyright 2020 Mitchell Hashimoto mitchell.hashimoto@gmail.com
-Copyright 2021 GitHub noreply@github.com
-Copyright 2021 Matthew Hooker mwhooker@gmail.com
-Copyright 2021 Michele mdeggies@gmail.com
-Copyright 2021 Seth Vargo seth@sethvargo.com
-
---------------------------------- (separator) ----------------------------------
-
-== Dependency
 github.com/hashicorp/go-rootcerts
 
 == License Type
 SPDX:MPL-2.0
 
 == Copyright
-Copyright 2016 Paul Hinze phinze@phinze.com
-Copyright 2019 GitHub noreply@github.com
-Copyright 2019 Jeff Mitchell jeffrey.mitchell@gmail.com
-Copyright 2019 Michel Vocks michelvocks@gmail.com
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1984,13 +1937,10 @@ github.com/infobloxopen/go-trees
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2017 GitHub noreply@github.com
-Copyright 2017 John Belamaric jbelamaric@infoblox.com
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 John Belamaric jbelamaric@infoblox.com
+Copyright 2016 Paul Hinze phinze@phinze.com
 Copyright 2019 GitHub noreply@github.com
-Copyright 2020 GitHub noreply@github.com
-Copyright 2020 sanyo sanyo0714@163.com
+Copyright 2019 Jeff Mitchell jeffrey.mitchell@gmail.com
+Copyright 2019 Michel Vocks michelvocks@gmail.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2474,9 +2424,7 @@ github.com/modern-go/concurrent
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 Tao Wen taowen@gmail.com
-Copyright 2018 kr1sten0 zhqy0807@gmail.com
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2487,7 +2435,9 @@ github.com/modern-go/reflect2
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2018 GitHub noreply@github.com
+Copyright 2018 Tao Wen taowen@gmail.com
+Copyright 2018 kr1sten0 zhqy0807@gmail.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2888,18 +2838,7 @@ github.com/puzpuzpuz/xsync/v3
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 Justin Santa Barbara justinsb@google.com
-Copyright 2018 Tao Wen taowen@gmail.com
-Copyright 2018 nextzhou nextzhou@gmail.com
-Copyright 2020 Aaron Simmons paleozogt@gmail.com
-Copyright 2020 GitHub noreply@github.com
-Copyright 2020 Mikko Ylinen mikko.ylinen@intel.com
-Copyright 2020 xueyuan zhangxueyuan@ayang.com
-Copyright 2021 GitHub noreply@github.com
-Copyright 2021 Tao Wen taowen@chengfayun.com
-Copyright 2024 Tonis Tiigi tonistiigi@gmail.com
-Copyright 2025 GitHub noreply@github.com
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -3159,7 +3098,8 @@ go.opentelemetry.io/auto/sdk
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright notice. Initial version of the following tests was based on
+Copyright notice. The following tests are partially based on
 
 --------------------------------- (separator) ----------------------------------
 
@@ -3170,74 +3110,12 @@ go.opentelemetry.io/collector/component
 SPDX:Apache-2.0
 
 == Copyright
-Copyright (C) 1991, 1999 Free Software Foundation, Inc.
-Copyright (C) 2013 Blake Mizerany
-Copyright (C) 2014-2019, Matt Butcher and Matt Farina
-Copyright (c) 2006-2010 Kirill Simonov
-Copyright (c) 2006-2011 Kirill Simonov
-Copyright (c) 2009 The Go Authors. All rights reserved.
-Copyright (c) 2009,2014 Google Inc. All rights reserved.
-Copyright (c) 2011, Open Knowledge Foundation Ltd.
-Copyright (c) 2011-2019 Canonical Ltd
-Copyright (c) 2012 Péter Surányi. Portions Copyright (c) 2009 The Go
-Copyright (c) 2012 The Go Authors. All rights reserved.
-Copyright (c) 2012,2013 Ernest Micklei
-Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
-Copyright (c) 2013 The Go Authors. All rights reserved.
-Copyright (c) 2013, The GoGo Authors. All rights reserved.
-Copyright (c) 2014 Cenk Altı
-Copyright (c) 2014 Sam Ghods
-Copyright (c) 2014, Evan Phoenix
-Copyright (c) 2015 The Libbpf Authors. All rights reserved.
-Copyright (c) 2015, Dave Cheney <dave@cheney.net>
-Copyright (c) 2015, Gengo, Inc.
-Copyright (c) 2016 Caleb Spare
-Copyright (c) 2016 Mail.Ru Group
-Copyright (c) 2016 json-iterator
-Copyright (c) 2017 Nathan Sweet
-Copyright (c) 2017 The Go Authors. All rights reserved.
-Copyright (c) 2017-2021 Uber Technologies, Inc.
-Copyright (c) 2018 The Go Authors. All rights reserved.
-Copyright (c) 2018, 2019 Cloudflare
-Copyright (c) 2019 Authors of Cilium
-Copyright (c) 2019 Josh Bleecher Snyder
-Copyright (c) 2019 Montgomery Edwards⁴⁴⁸ and Faye Amacker
-Copyright (c) 2019-present Faye Amacker
-Copyright (c) 2020 Bruno Scheufler
-Copyright (c) 2020 The Go Authors. All rights reserved.
-Copyright 2009 The Go Authors.
-Copyright 2010 The Go Authors
-Copyright 2010 The Go Authors. All rights reserved.
-Copyright 2011-2016 Canonical Ltd.
-Copyright 2012-2015 The Prometheus Authors
-Copyright 2013-2015 Blake Mizerany, Björn Rabenstein
-Copyright 2014 The gofuzz Authors
-Copyright 2014 gRPC authors.
-Copyright 2014-2015 Stripe, Inc.
-Copyright 2014-2015 The Prometheus Authors
-Copyright 2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2015 The Go Authors.
-Copyright 2015 The Prometheus Authors
-Copyright 2023 The Go Authors. All rights reserved.
-Copyright 2025 The Kubernetes Authors
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright The OpenTelemetry Authors
-
---------------------------------- (separator) ----------------------------------
-
-== Dependency
-go.opentelemetry.io/collector/featuregate
-
-== License Type
-SPDX:Apache-2.0
-
-== Copyright
 (no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-go.opentelemetry.io/collector/internal/telemetry
+go.opentelemetry.io/collector/featuregate
 
 == License Type
 SPDX:Apache-2.0
@@ -3253,13 +3131,29 @@ Copyright The OpenTelemetry Authors
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-go.opentelemetry.io/collector/pdata
+go.opentelemetry.io/collector/internal/telemetry
 
 == License Type
 SPDX:Apache-2.0
 
 == Copyright
 (no copyright notices found)
+
+--------------------------------- (separator) ----------------------------------
+
+== Dependency
+go.opentelemetry.io/collector/pdata
+
+== License Type
+SPDX:Apache-2.0
+
+== Copyright
+Copyright (c) 2013 Mitchell Hashimoto
+Copyright (c) 2013 The Go Authors. All rights reserved.
+Copyright (c) 2017 Uber Technologies, Inc.
+Copyright 2014 gRPC authors.
+Copyright 2016 Michal Witkowski. All Rights Reserved.
+Copyright The OpenTelemetry Authors
 
 --------------------------------- (separator) ----------------------------------
 
