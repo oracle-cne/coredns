@@ -44,7 +44,7 @@ GOLANG_VERSION=$(cat .go-version)
 
 GITCOMMIT=${GIT_COMMIT_SHA}
 
-go build -v -trimpath=false -ldflags="-s -w -X github.com/coredns/coredns/coremain.GitCommit=$(GITCOMMIT)i -X main.VERSION=v%{version}" -o coredns
+go build -v -trimpath=false -ldflags="-s -w -X github.com/coredns/coredns/coremain.GitCommit=${GITCOMMIT} -X main.VERSION=v%{version}" -o coredns
 popd
 
 %install
